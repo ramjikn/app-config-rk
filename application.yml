@@ -8,3 +8,5 @@ logging:
   level:
     io:
       pivotal: DEBUG
+queueName=billing-queue
+billingQueueName: billing-queue
