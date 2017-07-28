@@ -8,5 +8,5 @@ logging:
   level:
     io:
       pivotal: INFO
-queueName=billing-queue
+queueName: billing-queue
 billingQueueName: billing-queue
