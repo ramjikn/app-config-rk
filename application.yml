@@ -7,6 +7,6 @@ management:
 logging:
   level:
     io:
-      pivotal: DEBUG
+      pivotal: INFO
 queueName=billing-queue
 billingQueueName: billing-queue
